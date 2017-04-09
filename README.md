@@ -6,7 +6,7 @@ This is a demo project for connecting and Using MySql database and with node.js.
 running the following command
 
     > npm install
-    > npm server.js
+    > node server.js
 
 
 # For Any Queries
